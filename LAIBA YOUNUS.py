@@ -33,7 +33,7 @@ except ValueError as e:
     exit()
 
 grade = calculate_grade(score)
-print_marksheet(name, score, grade)[]
+print_marksheet(name, score, grade)
 
 # QUESTION:2
 year = int(input("Enter a year: "))
